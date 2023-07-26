@@ -36,3 +36,12 @@
          .contact:hover{
             color: #6C63FF;
          }
+         .tops{
+            text-decoration: none;
+            color: white;
+         }
+
+         .btn-primary{
+            background-color: #6C63FF;
+         }
+        
