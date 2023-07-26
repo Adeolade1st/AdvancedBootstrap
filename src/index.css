@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    justify-content: center;
+        margin-top: 40px;
+ 
+}
+ .about-me {
+     border: 1px solid #6C63FF;
+     margin: 20px;
+     border-radius: 4px;
+     padding: 20px 15px;
+
+     text-transform: capitalize;
+ }
+
+ .contact-me {
+    border: 1px solid #6C63FF;
+        margin: 20px;
+        border-radius: 4px;
+        padding: 20px 15px;
+        background-color: rgb(108, 99, 255);
+        text-transform: capitalize;
+        color: white;
+    }
+
+    .contact{
+        text-decoration: none;
+        color: white;
+    }
+
+         .about{
+             text-decoration: none;
+             color: #6C63FF;
+         }
+
+         .contact:hover{
+            color: #6C63FF;
+         }
